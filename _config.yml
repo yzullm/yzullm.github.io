@@ -25,7 +25,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Keep loving and pursuing progress"
   location         : "China"
-  employer         : "Yangzhou University"
+  employer         : "Shanghai University"
   uri              : # URL
   email            : "yzue101llm@163.com" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

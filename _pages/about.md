@@ -13,27 +13,36 @@ Welcome to my homepage. I'm a senior undergraduate student from [the School of I
 [Email](mailto:yzue101llm@163.com) / [Github](https://github.com/yzullm) / [CSDN](https://blog.csdn.net/m0_70628523?spm=1000.2115.3001.5343)
 
 
-Research interest
+[Research interest]
 ======
 1. Embedded Systems, IOT;
-2. Deep Learning, and AI Security.
+2. Machine Learning(Deep Learning, Reinforcement learning);
+3. AI Security,Multimedia Security.
 
 
-Patents 
+[Recent representative work]
+======
+1. A ground target detection system for UAVS based on Edge AI.
+*Abstract
+............
+
+[Patents]
 ======
 1. A face tracking device based on lightweight neural network. (utility model ; accepted)
-2. xxxxxx security inspection method and system. (patent for invention ; accepted)
-3. ............
+2. xxxxxx security inspection method and system. (patent for invention ; published)
+3. A Multi-feature Fusion-Based Closed-Box Attack Detection Method, Apparatus, and System(patent for invention ; published)
+4. ............
 
 
-Software Copyrights
+[Software Copyrights]
 ======
 1. An object following system based on machine vision. (authorized)
 2. A number discrimination system based on machine learning. (authorized)
 3. A xxxxxx security inspection robot command end APP software. (authorized)
 4. ............
 
-Competitions
+
+[Competitions]
 ======
 1. [National electronic Design Competition for college students](http://nuedc.xjtu.edu.cn/)
 2. [National College students Embedded chip and System design competition](http://www.socchina.net/)
